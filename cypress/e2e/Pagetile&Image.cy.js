@@ -7,10 +7,7 @@ describe('Login in OrangeHRM and check page title', () => {
   
     cy.url().should('include', 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-  
 
-  
-    
     
   })
 
